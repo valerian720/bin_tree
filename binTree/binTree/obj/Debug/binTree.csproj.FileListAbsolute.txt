@@ -1,0 +1,13 @@
+C:\Users\v.a.vorotnikov\Desktop\code\binTree\binTree\bin\Debug\binTree.exe.config
+C:\Users\v.a.vorotnikov\Desktop\code\binTree\binTree\bin\Debug\binTree.exe
+C:\Users\v.a.vorotnikov\Desktop\code\binTree\binTree\bin\Debug\binTree.pdb
+C:\Users\v.a.vorotnikov\Desktop\code\binTree\binTree\obj\Debug\binTree.csprojResolveAssemblyReference.cache
+C:\Users\v.a.vorotnikov\Desktop\code\binTree\binTree\obj\Debug\binTree.csproj.CoreCompileInputs.cache
+C:\Users\v.a.vorotnikov\Desktop\code\binTree\binTree\obj\Debug\binTree.exe
+C:\Users\v.a.vorotnikov\Desktop\code\binTree\binTree\obj\Debug\binTree.pdb
+C:\Users\п\Desktop\2018 программирование\binTree\binTree\bin\Debug\binTree.exe.config
+C:\Users\п\Desktop\2018 программирование\binTree\binTree\obj\Debug\binTree.exe
+C:\Users\п\Desktop\2018 программирование\binTree\binTree\obj\Debug\binTree.pdb
+C:\Users\п\Desktop\2018 программирование\binTree\binTree\bin\Debug\binTree.exe
+C:\Users\п\Desktop\2018 программирование\binTree\binTree\bin\Debug\binTree.pdb
+C:\Users\п\Desktop\2018 программирование\binTree\binTree\obj\Debug\binTree.csprojResolveAssemblyReference.cache
